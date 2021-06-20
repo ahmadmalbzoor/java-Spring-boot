@@ -1,0 +1,15 @@
+package com.AssignmentHelloHuman;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class Human {
+@RequestMapping("/name")
+public String name(@RequestParam(value="q") String searchQuery)
+{
+return "<h1>Hello</h1>"+"<h1>searchQuery</h1>";
+	
+}
+}

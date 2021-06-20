@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div id="main">
+		<aside>
+			<h3>Farm</h3>
+			<h4>(Earns 10 to 20 gold)</h4>
+			<form>
+				<input type="submit" value="Find Gold!">
+			</form>
+		</aside>
+		<aside></aside>
+		<aside></aside>
+		<aside></aside>
+	</div>
+</body>
+</html>

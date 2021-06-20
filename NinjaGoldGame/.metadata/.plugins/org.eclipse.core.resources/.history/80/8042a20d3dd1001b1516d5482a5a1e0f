@@ -1,0 +1,37 @@
+package com.ninjagoldgame;
+
+import java.util.Random;
+
+import javax.servlet.http.HttpSession;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+
+@Controller
+public class theninja {
+	public int min, max;
+
+	@RequestMapping("/gold")
+	public String showPage(HttpSession session) {
+		if (session.getAttribute("count") == null) {
+			session.setAttribute("count", 0);
+		}
+
+		return "gold.jsp";
+	}
+
+	@RequestMapping(value = "/play", method = RequestMethod.POST)
+	public String play(@RequestParam(value = "gold") String add, HttpSession session) {
+		int farmcount;
+		Random random = new Random();
+		if (add.equals("form")) {
+			farmcount = (int) random.nextInt(20 - 10) + 10;
+			session.setAttribute("count", +(farmcount + (int) session.getAttribute("count")));
+
+		}
+		return "redirect:/gold";
+
+	}
+}

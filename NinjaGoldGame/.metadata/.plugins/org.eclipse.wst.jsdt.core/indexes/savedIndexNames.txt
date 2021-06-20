@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\BisanCo\Desktop\java\springAssi\NinjaGoldGame\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+800442018.index
+1247233541.index
+1836189696.index
+725517776.index
+2767158002.index
+2885027206.index

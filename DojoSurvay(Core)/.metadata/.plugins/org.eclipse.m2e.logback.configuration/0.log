@@ -1,0 +1,489 @@
+2021-06-17 10:05:06,801 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-17 10:08:08,870 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dojoSurvey:dojoSurvey:0.0.1-SNAPSHOT @ C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\pom.xml.
+2021-06-17 10:08:12,547 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dojoSurvey/src/main/java
+2021-06-17 10:08:12,548 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dojoSurvey/src/main/resources
+2021-06-17 10:08:12,557 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dojoSurvey/src/main/resources
+2021-06-17 10:08:12,575 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dojoSurvey/src/test/java
+2021-06-17 10:08:17,385 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2021-06-17 10:08:17,393 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-06-17 10:08:18,395 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dojoSurvey:dojoSurvey:0.0.1-SNAPSHOT @ C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\pom.xml.
+2021-06-17 10:08:19,997 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dojoSurvey/src/main/java
+2021-06-17 10:08:19,998 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dojoSurvey/src/main/resources
+2021-06-17 10:08:19,999 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dojoSurvey/src/main/resources
+2021-06-17 10:08:20,001 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dojoSurvey/src/test/java
+2021-06-17 10:08:21,332 [Worker-5: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dojoSurvey
+2021-06-17 10:08:21,339 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2021-06-17 10:08:22,740 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 10:08:22,741 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 10:08:22,747 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 10:08:22,770 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 10:08:22,776 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 10:08:22,776 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 10:08:22,777 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-17 10:08:22,777 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dojoSurvey
+2021-06-17 10:08:22,779 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dojoSurvey
+2021-06-17 10:08:22,788 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 10:08:22,788 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 10:08:40,833 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dojoSurvey:dojoSurvey:0.0.1-SNAPSHOT @ C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\pom.xml.
+2021-06-17 10:08:42,553 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 10:08:42,553 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 10:08:42,556 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 10:08:42,557 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 10:08:42,560 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 10:08:42,561 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 10:08:42,561 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-17 10:08:42,562 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dojoSurvey
+2021-06-17 10:08:42,562 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dojoSurvey
+2021-06-17 10:08:42,567 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 10:08:42,567 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 10:08:43,454 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 10:08:43,455 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 10:08:43,457 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 10:08:43,473 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 10:08:43,476 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 10:08:43,477 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 10:08:43,477 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-17 12:53:52,440 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 12:53:52,440 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 12:53:52,440 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 12:53:52,441 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 12:53:52,443 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 12:53:52,443 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 12:53:52,443 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-17 12:55:06,520 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 12:55:06,520 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 12:55:06,521 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 12:55:06,521 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 12:55:06,522 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 12:55:06,522 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 12:55:06,523 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-17 12:55:14,281 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 12:55:14,281 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 12:55:14,281 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 12:55:14,282 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 12:55:14,285 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 12:55:14,286 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 12:55:14,286 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-17 12:58:08,236 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 12:58:08,237 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 12:58:08,237 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 12:58:08,237 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 12:58:08,240 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 12:58:08,240 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 12:58:08,241 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-17 12:59:31,962 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 12:59:31,962 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 12:59:31,964 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 12:59:31,987 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 12:59:31,990 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 12:59:31,990 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 12:59:31,990 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-17 12:59:52,555 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @10550926ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-06-17 12:59:52,661 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.37.v20210219; built: 2021-02-23T06:49:41.320Z; git: 27afab2bd37780d179836e313e0fe11bc4fa0ce9; jvm 15.0.2+7-27
+2021-06-17 12:59:52,675 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2021-06-17 12:59:52,675 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2021-06-17 12:59:52,676 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2021-06-17 12:59:52,694 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4c236cf5{/help,null,AVAILABLE}
+2021-06-17 12:59:52,709 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3399febf{HTTP/1.1, (http/1.1)}{127.0.0.1:59245}
+2021-06-17 12:59:52,709 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @10551080ms
+2021-06-17 12:59:52,709 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2021-06-17 14:24:46,748 [Worker-21: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dojoSurvey:dojoSurvey:0.0.1-SNAPSHOT @ C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\pom.xml.
+2021-06-17 14:24:48,390 [Worker-21: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 14:24:48,390 [Worker-21: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 14:24:48,394 [Worker-21: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 14:24:48,448 [Worker-21: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 14:24:48,453 [Worker-21: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 14:24:48,453 [Worker-21: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 14:24:48,454 [Worker-21: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-17 14:24:48,454 [Worker-21: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dojoSurvey
+2021-06-17 14:24:48,454 [Worker-21: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dojoSurvey
+2021-06-17 14:24:48,462 [Worker-21: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 14:24:48,462 [Worker-21: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 20:51:02,367 [Worker-24: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 20:51:02,368 [Worker-24: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 20:51:02,369 [Worker-24: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 20:51:02,370 [Worker-24: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 20:51:02,375 [Worker-24: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 20:51:02,376 [Worker-24: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 20:51:02,376 [Worker-24: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 21:04:38,861 [Worker-32: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:04:38,863 [Worker-32: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:04:38,864 [Worker-32: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 21:04:38,893 [Worker-32: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 21:04:38,898 [Worker-32: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:04:38,898 [Worker-32: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:04:38,898 [Worker-32: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 21:05:53,392 [Worker-33: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:05:53,393 [Worker-33: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:05:53,394 [Worker-33: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 21:05:53,416 [Worker-33: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 21:05:53,420 [Worker-33: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:05:53,420 [Worker-33: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:05:53,420 [Worker-33: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 21:06:27,886 [Worker-34: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:06:27,887 [Worker-34: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:06:27,887 [Worker-34: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 21:06:27,887 [Worker-34: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 21:06:27,890 [Worker-34: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:06:27,890 [Worker-34: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:06:27,890 [Worker-34: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 21:49:24,223 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:49:24,223 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:49:24,225 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 21:49:24,258 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 21:49:24,262 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:49:24,263 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:49:24,263 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 21:50:32,047 [Worker-42: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:50:32,047 [Worker-42: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:50:32,049 [Worker-42: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 21:50:32,072 [Worker-42: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 21:50:32,076 [Worker-42: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:50:32,077 [Worker-42: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:50:32,077 [Worker-42: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 21:52:43,649 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:52:43,649 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:52:43,651 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 21:52:43,676 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 21:52:43,681 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:52:43,682 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:52:43,682 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 21:53:34,917 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:53:34,918 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:53:34,920 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 21:53:34,961 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 21:53:34,966 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:53:34,966 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:53:34,967 [Worker-38: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 21:54:58,644 [Worker-46: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:54:58,644 [Worker-46: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:54:58,646 [Worker-46: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 21:54:58,675 [Worker-46: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 21:54:58,678 [Worker-46: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:54:58,679 [Worker-46: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:54:58,679 [Worker-46: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 21:55:26,173 [Worker-50: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:55:26,174 [Worker-50: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:55:26,175 [Worker-50: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 21:55:26,201 [Worker-50: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 21:55:26,205 [Worker-50: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:55:26,205 [Worker-50: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:55:26,206 [Worker-50: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 21:59:32,483 [Worker-44: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:59:32,484 [Worker-44: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:59:32,486 [Worker-44: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 21:59:32,516 [Worker-44: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 21:59:32,521 [Worker-44: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 21:59:32,522 [Worker-44: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 21:59:32,522 [Worker-44: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:08:42,689 [Worker-57: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:08:42,689 [Worker-57: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:08:42,691 [Worker-57: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:08:42,723 [Worker-57: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:08:42,730 [Worker-57: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:08:42,731 [Worker-57: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:08:42,731 [Worker-57: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:14:05,792 [Worker-61: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:14:05,793 [Worker-61: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:14:05,795 [Worker-61: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:14:05,846 [Worker-61: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:14:05,851 [Worker-61: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:14:05,851 [Worker-61: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:14:05,852 [Worker-61: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:15:20,704 [Worker-56: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:15:20,704 [Worker-56: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:15:20,705 [Worker-56: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:15:20,730 [Worker-56: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:15:20,734 [Worker-56: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:15:20,735 [Worker-56: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:15:20,735 [Worker-56: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:16:25,756 [Worker-62: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:16:25,756 [Worker-62: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:16:25,758 [Worker-62: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:16:25,782 [Worker-62: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:16:25,785 [Worker-62: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:16:25,785 [Worker-62: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:16:25,786 [Worker-62: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:19:49,529 [Worker-54: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:19:49,530 [Worker-54: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:19:49,531 [Worker-54: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:19:49,562 [Worker-54: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:19:49,566 [Worker-54: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:19:49,566 [Worker-54: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:19:49,567 [Worker-54: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:22:53,487 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:22:53,487 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:22:53,489 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:22:53,521 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:22:53,525 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:22:53,525 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:22:53,526 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:23:39,812 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:23:39,813 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:23:39,814 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:23:39,814 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:23:39,819 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:23:39,819 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:23:39,819 [Worker-71: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:30:53,612 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:30:53,612 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:30:53,614 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:30:53,666 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:30:53,670 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:30:53,670 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:30:53,670 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:33:43,020 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:33:43,021 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:33:43,021 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:33:43,023 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:33:43,027 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:33:43,027 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:33:43,028 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:35:41,845 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:35:41,846 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:35:41,847 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:35:41,848 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:35:41,852 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:35:41,852 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:35:41,852 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:36:23,416 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:36:23,417 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:36:23,418 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:36:23,419 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:36:23,423 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:36:23,423 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:36:23,424 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:38:12,681 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:38:12,681 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:38:12,682 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:38:12,682 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:38:12,684 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:38:12,684 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:38:12,684 [Worker-81: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:38:38,863 [Worker-84: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:38:38,864 [Worker-84: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:38:38,865 [Worker-84: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:38:38,865 [Worker-84: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:38:38,868 [Worker-84: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:38:38,868 [Worker-84: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:38:38,868 [Worker-84: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:39:21,294 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:39:21,294 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:39:21,295 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:39:21,326 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:39:21,329 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:39:21,329 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:39:21,329 [Worker-78: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:40:59,992 [Worker-85: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:40:59,992 [Worker-85: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:40:59,995 [Worker-85: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:41:00,022 [Worker-85: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:41:00,027 [Worker-85: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:41:00,027 [Worker-85: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:41:00,027 [Worker-85: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:41:50,238 [Worker-90: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:41:50,238 [Worker-90: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:41:50,239 [Worker-90: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:41:50,260 [Worker-90: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:41:50,264 [Worker-90: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:41:50,265 [Worker-90: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:41:50,265 [Worker-90: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:42:50,340 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:42:50,340 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:42:50,342 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:42:50,361 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:42:50,365 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:42:50,365 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:42:50,365 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:50:50,697 [Worker-96: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:50:50,698 [Worker-96: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:50:50,699 [Worker-96: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:50:50,731 [Worker-96: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:50:50,735 [Worker-96: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:50:50,735 [Worker-96: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:50:50,736 [Worker-96: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:51:32,404 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:51:32,405 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:51:32,405 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:51:32,406 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:51:32,409 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:51:32,409 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:51:32,409 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:55:02,041 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:55:02,042 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:55:02,042 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:55:02,042 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:55:02,045 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:55:02,045 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:55:02,045 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:55:34,489 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:55:34,490 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:55:34,491 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:55:34,491 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:55:34,495 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:55:34,495 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:55:34,495 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:58:05,035 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:58:05,036 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:58:05,036 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:58:05,037 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:58:05,039 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:58:05,039 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:58:05,039 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 22:58:21,363 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:58:21,363 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:58:21,364 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 22:58:21,364 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 22:58:21,372 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 22:58:21,372 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 22:58:21,372 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:03:06,531 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:03:06,531 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:03:06,532 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:03:06,533 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:03:06,540 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:03:06,540 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:03:06,540 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:05:01,998 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:05:01,998 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:05:01,999 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:05:01,999 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:05:02,002 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:05:02,002 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:05:02,002 [Worker-99: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:05:10,601 [Worker-98: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:05:10,602 [Worker-98: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:05:10,602 [Worker-98: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:05:10,602 [Worker-98: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:05:10,605 [Worker-98: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:05:10,605 [Worker-98: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:05:10,605 [Worker-98: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:06:39,472 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:06:39,472 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:06:39,472 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:06:39,473 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:06:39,475 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:06:39,475 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:06:39,475 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:11:54,495 [Worker-107: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:11:54,496 [Worker-107: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:11:54,499 [Worker-107: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:11:54,541 [Worker-107: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:11:54,549 [Worker-107: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:11:54,549 [Worker-107: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:11:54,549 [Worker-107: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:15:40,987 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:15:40,987 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:15:40,988 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:15:40,989 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:15:40,995 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:15:40,995 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:15:40,995 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:16:05,102 [Worker-103: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:16:05,103 [Worker-103: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:16:05,103 [Worker-103: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:16:05,104 [Worker-103: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:16:05,106 [Worker-103: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:16:05,107 [Worker-103: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:16:05,107 [Worker-103: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:16:34,735 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:16:34,736 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:16:34,737 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:16:34,737 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:16:34,740 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:16:34,740 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:16:34,740 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:17:23,203 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:17:23,204 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:17:23,205 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:17:23,206 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:17:23,210 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:17:23,210 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:17:23,211 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:17:58,040 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:17:58,040 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:17:58,041 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:17:58,041 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:17:58,044 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:17:58,044 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:17:58,044 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:19:08,197 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:19:08,198 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:19:08,198 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:19:08,198 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:19:08,203 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:19:08,203 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:19:08,203 [Worker-105: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:19:46,203 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:19:46,204 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:19:46,204 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:19:46,204 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:19:46,206 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:19:46,206 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:19:46,206 [Worker-92: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:20:10,550 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:20:10,550 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:20:10,550 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:20:10,550 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:20:10,552 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:20:10,552 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:20:10,552 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:22:55,259 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:22:55,259 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:22:55,260 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:22:55,260 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:22:55,266 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:22:55,267 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:22:55,267 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:23:48,012 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:23:48,012 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:23:48,013 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:23:48,013 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:23:48,017 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:23:48,018 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:23:48,018 [Worker-94: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:24:17,987 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:24:17,987 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:24:17,988 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 23:24:17,988 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:24:17,993 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:24:17,993 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:24:17,993 [Worker-108: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:43:56,606 [Worker-116: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:43:56,607 [Worker-116: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:43:56,608 [Worker-116: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:43:56,642 [Worker-116: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:43:56,646 [Worker-116: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:43:56,647 [Worker-116: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:43:56,647 [Worker-116: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:46:26,995 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:46:26,996 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:46:26,997 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:46:27,023 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:46:27,027 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:46:27,027 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:46:27,028 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:49:41,394 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:49:41,394 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:49:41,397 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:49:41,432 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:49:41,437 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:49:41,437 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:49:41,437 [Worker-109: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-18 23:55:30,340 [Worker-124: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:55:30,340 [Worker-124: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:55:30,342 [Worker-124: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:55:30,368 [Worker-124: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 23:55:30,373 [Worker-124: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 23:55:30,373 [Worker-124: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-18 23:55:30,373 [Worker-124: Launching dojoSurvey - DojoSurveyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-19 00:00:52,823 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 00:00:52,824 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-19 00:00:52,825 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-19 00:00:52,855 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-19 00:00:52,858 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 00:00:52,858 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-19 00:00:52,858 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\DojoSurvay(Core)\dojoSurvey\src\test\resources
+2021-06-19 00:00:53,783 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3399febf{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2021-06-19 00:00:53,784 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2021-06-19 00:00:53,802 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@4c236cf5{/help,null,STOPPED}

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\BisanCo\Desktop\java\springAssi\Languages\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2067727436.index
+\Languages\src\main\java
+C:\Users\BisanCo\Desktop\java\springAssi\Languages\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1629470894.index
+\Languages\src\main\java

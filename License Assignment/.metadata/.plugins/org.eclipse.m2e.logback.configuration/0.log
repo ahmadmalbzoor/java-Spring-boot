@@ -1,0 +1,603 @@
+2021-06-23 11:38:26,451 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-23 11:43:56,949 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.Licenses:Licenses:0.0.1-SNAPSHOT @ C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\pom.xml.
+2021-06-23 11:44:09,334 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Licenses/src/main/java
+2021-06-23 11:44:09,335 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Licenses/src/main/resources
+2021-06-23 11:44:09,347 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Licenses/src/main/resources
+2021-06-23 11:44:09,367 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Licenses/src/test/java
+2021-06-23 11:44:16,478 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 26 sec
+2021-06-23 11:44:16,494 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-06-23 11:44:17,983 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.Licenses:Licenses:0.0.1-SNAPSHOT @ C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\pom.xml.
+2021-06-23 11:44:20,757 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Licenses/src/main/java
+2021-06-23 11:44:20,758 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Licenses/src/main/resources
+2021-06-23 11:44:20,759 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Licenses/src/main/resources
+2021-06-23 11:44:20,761 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Licenses/src/test/java
+2021-06-23 11:44:23,359 [Worker-4: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Licenses
+2021-06-23 11:44:23,368 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2021-06-23 11:44:25,379 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 11:44:25,380 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 11:44:25,394 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 11:44:25,427 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 11:44:25,432 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 11:44:25,432 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 11:44:25,432 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 11:44:25,433 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Licenses
+2021-06-23 11:44:25,434 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Licenses
+2021-06-23 11:44:25,446 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 11:44:25,447 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 11:50:10,731 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 11:50:10,732 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 11:50:10,736 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 11:50:10,761 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 11:50:10,766 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 11:50:10,766 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 11:50:10,766 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 11:51:12,532 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 11:51:12,532 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 11:51:12,534 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 11:51:12,548 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 11:51:12,553 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 11:51:12,553 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 11:51:12,554 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 11:51:13,687 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 11:51:13,687 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 11:51:13,688 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 11:51:13,689 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 11:51:13,692 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 11:51:13,693 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 11:51:13,693 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 11:54:38,000 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 11:54:38,001 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 11:54:38,002 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 11:54:38,014 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 11:54:38,019 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 11:54:38,019 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 11:54:38,019 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 12:52:52,037 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 12:52:52,038 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 12:52:52,039 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 12:52:52,069 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 12:52:52,074 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 12:52:52,074 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 12:52:52,074 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 12:54:13,334 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 12:54:13,335 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 12:54:13,336 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 12:54:13,346 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 12:54:13,349 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 12:54:13,350 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 12:54:13,350 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 13:00:39,619 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:00:39,620 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:00:39,622 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 13:00:39,673 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 13:00:39,680 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:00:39,680 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:00:39,681 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 13:01:34,962 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @5026939ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-06-23 13:01:35,128 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.37.v20210219; built: 2021-02-23T06:49:41.320Z; git: 27afab2bd37780d179836e313e0fe11bc4fa0ce9; jvm 15.0.2+7-27
+2021-06-23 13:01:35,152 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2021-06-23 13:01:35,153 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2021-06-23 13:01:35,155 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2021-06-23 13:01:35,204 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4cd09545{/help,null,AVAILABLE}
+2021-06-23 13:01:35,237 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@43bb9737{HTTP/1.1, (http/1.1)}{127.0.0.1:51747}
+2021-06-23 13:01:35,237 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @5027213ms
+2021-06-23 13:01:35,237 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2021-06-23 13:06:12,079 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:06:12,079 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:06:12,080 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 13:06:12,113 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 13:06:12,118 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:06:12,119 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:06:12,119 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 13:07:02,773 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:07:02,773 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:07:02,774 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 13:07:02,783 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 13:07:02,785 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:07:02,786 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:07:02,786 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 13:39:50,119 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:39:50,120 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:39:50,123 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 13:39:50,165 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 13:39:50,172 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:39:50,172 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:39:50,173 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 13:45:04,594 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:45:04,595 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:45:04,596 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 13:45:04,621 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 13:45:04,625 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:45:04,626 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:45:04,626 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 13:45:32,444 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:45:32,444 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:45:32,446 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 13:45:32,457 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 13:45:32,461 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:45:32,461 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:45:32,461 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 13:55:11,615 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:55:11,615 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:55:11,616 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 13:55:11,616 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 13:55:11,617 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:55:11,617 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:55:11,617 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 13:55:38,544 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:55:38,544 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:55:38,544 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 13:55:38,545 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 13:55:38,546 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:55:38,547 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:55:38,547 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 13:56:43,630 [Worker-47: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.Licenses:Licenses:0.0.1-SNAPSHOT @ C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\pom.xml.
+2021-06-23 13:56:51,442 [Worker-47: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:56:51,442 [Worker-47: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:56:51,444 [Worker-47: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 13:56:51,468 [Worker-47: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 13:56:51,471 [Worker-47: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:56:51,471 [Worker-47: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:56:51,472 [Worker-47: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 13:56:51,472 [Worker-47: Launching Licenses - LicensesApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Licenses
+2021-06-23 13:56:51,472 [Worker-47: Launching Licenses - LicensesApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Licenses
+2021-06-23 13:56:51,477 [Worker-47: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:56:51,477 [Worker-47: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:56:52,739 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:56:52,740 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:56:52,740 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 13:56:52,746 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 13:56:52,748 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 13:56:52,749 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 13:56:52,749 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 14:09:26,506 [Worker-55: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:09:26,506 [Worker-55: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:09:26,507 [Worker-55: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 14:09:26,521 [Worker-55: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:09:26,523 [Worker-55: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:09:26,525 [Worker-55: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:09:26,525 [Worker-55: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 14:12:37,727 [Worker-54: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:12:37,730 [Worker-54: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:12:37,732 [Worker-54: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 14:12:37,743 [Worker-54: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:12:37,746 [Worker-54: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:12:37,746 [Worker-54: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:12:37,746 [Worker-54: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 14:15:13,106 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:15:13,107 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:15:13,108 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 14:15:13,124 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:15:13,127 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:15:13,127 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:15:13,128 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 14:15:49,178 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:15:49,178 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:15:49,180 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 14:15:49,191 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:15:49,195 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:15:49,195 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:15:49,195 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 14:16:51,807 [Worker-66: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:16:51,807 [Worker-66: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:16:51,809 [Worker-66: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 14:16:51,819 [Worker-66: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:16:51,822 [Worker-66: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:16:51,823 [Worker-66: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:16:51,823 [Worker-66: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 14:18:27,134 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:18:27,134 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:18:27,134 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:18:27,134 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:18:27,136 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:18:27,136 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:18:27,136 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 14:18:30,844 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:18:30,845 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:18:30,845 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:18:30,845 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:18:30,846 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:18:30,847 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:18:30,847 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 14:19:14,769 [Worker-68: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:19:14,769 [Worker-68: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:19:14,769 [Worker-68: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:19:14,770 [Worker-68: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:19:14,771 [Worker-68: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:19:14,771 [Worker-68: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:19:14,771 [Worker-68: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 14:19:47,428 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:19:47,428 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:19:47,428 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:19:47,429 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:19:47,431 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:19:47,431 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:19:47,431 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 14:22:43,692 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:22:43,693 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:22:43,694 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 14:22:43,704 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:22:43,707 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:22:43,707 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:22:43,707 [Worker-59: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 14:43:13,195 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:43:13,196 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:43:13,196 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:43:13,196 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 14:43:13,198 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 14:43:13,198 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 14:43:13,198 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:01:05,935 [Worker-81: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:01:05,936 [Worker-81: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:01:05,937 [Worker-81: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 15:01:05,953 [Worker-81: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:01:05,957 [Worker-81: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:01:05,957 [Worker-81: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:01:05,957 [Worker-81: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:02:08,167 [Worker-82: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:02:08,168 [Worker-82: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:02:08,169 [Worker-82: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:02:08,169 [Worker-82: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:02:08,173 [Worker-82: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:02:08,174 [Worker-82: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:02:08,174 [Worker-82: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:02:52,763 [Worker-83: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:02:52,763 [Worker-83: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:02:52,764 [Worker-83: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:02:52,764 [Worker-83: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:02:52,769 [Worker-83: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:02:52,769 [Worker-83: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:02:52,770 [Worker-83: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:05:05,869 [Worker-76: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:05:05,870 [Worker-76: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:05:05,872 [Worker-76: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 15:05:05,883 [Worker-76: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:05:05,886 [Worker-76: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:05:05,886 [Worker-76: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:05:05,887 [Worker-76: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:06:34,929 [Worker-79: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:06:34,930 [Worker-79: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:06:34,931 [Worker-79: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 15:06:34,943 [Worker-79: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:06:34,946 [Worker-79: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:06:34,946 [Worker-79: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:06:34,946 [Worker-79: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:07:46,834 [Worker-74: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:07:46,835 [Worker-74: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:07:46,835 [Worker-74: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:07:46,836 [Worker-74: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:07:46,838 [Worker-74: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:07:46,838 [Worker-74: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:07:46,838 [Worker-74: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:08:44,529 [Worker-80: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:08:44,529 [Worker-80: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:08:44,530 [Worker-80: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:08:44,530 [Worker-80: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:08:44,532 [Worker-80: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:08:44,532 [Worker-80: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:08:44,532 [Worker-80: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:11:56,762 [Worker-87: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:11:56,763 [Worker-87: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:11:56,763 [Worker-87: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:11:56,764 [Worker-87: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:11:56,766 [Worker-87: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:11:56,766 [Worker-87: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:11:56,766 [Worker-87: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:13:26,573 [Worker-91: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:13:26,573 [Worker-91: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:13:26,573 [Worker-91: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:13:26,573 [Worker-91: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:13:26,576 [Worker-91: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:13:26,576 [Worker-91: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:13:26,576 [Worker-91: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:14:09,827 [Worker-90: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:14:09,827 [Worker-90: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:14:09,827 [Worker-90: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:14:09,827 [Worker-90: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:14:09,829 [Worker-90: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:14:09,830 [Worker-90: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:14:09,830 [Worker-90: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:14:37,293 [Worker-93: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:14:37,294 [Worker-93: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:14:37,294 [Worker-93: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:14:37,295 [Worker-93: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:14:37,298 [Worker-93: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:14:37,299 [Worker-93: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:14:37,299 [Worker-93: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:16:18,541 [Worker-95: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:16:18,542 [Worker-95: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:16:18,542 [Worker-95: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:16:18,542 [Worker-95: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:16:18,545 [Worker-95: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:16:18,545 [Worker-95: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:16:18,545 [Worker-95: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:18:08,043 [Worker-97: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:18:08,044 [Worker-97: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:18:08,044 [Worker-97: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:18:08,044 [Worker-97: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:18:08,047 [Worker-97: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:18:08,047 [Worker-97: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:18:08,047 [Worker-97: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:22:02,101 [Worker-94: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:22:02,101 [Worker-94: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:22:02,101 [Worker-94: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:22:02,102 [Worker-94: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:22:02,104 [Worker-94: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:22:02,104 [Worker-94: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:22:02,104 [Worker-94: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:27:02,684 [Worker-102: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:27:02,685 [Worker-102: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:27:02,686 [Worker-102: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 15:27:02,698 [Worker-102: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:27:02,701 [Worker-102: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:27:02,701 [Worker-102: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:27:02,701 [Worker-102: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:29:29,852 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:29:29,852 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:29:29,853 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 15:29:29,864 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:29:29,867 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:29:29,867 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:29:29,867 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:29:38,905 [Worker-103: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:29:38,906 [Worker-103: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:29:38,907 [Worker-103: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 15:29:38,919 [Worker-103: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:29:38,922 [Worker-103: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:29:38,923 [Worker-103: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:29:38,923 [Worker-103: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:33:00,958 [Worker-107: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:33:00,959 [Worker-107: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:33:00,959 [Worker-107: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:33:00,960 [Worker-107: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:33:00,961 [Worker-107: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:33:00,961 [Worker-107: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:33:00,961 [Worker-107: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:38:46,796 [Worker-110: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:38:46,797 [Worker-110: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:38:46,797 [Worker-110: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:38:46,798 [Worker-110: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:38:46,800 [Worker-110: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:38:46,800 [Worker-110: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:38:46,800 [Worker-110: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:40:10,688 [Worker-106: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:40:10,688 [Worker-106: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:40:10,688 [Worker-106: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:40:10,689 [Worker-106: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:40:10,692 [Worker-106: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:40:10,692 [Worker-106: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:40:10,692 [Worker-106: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:41:08,794 [Worker-112: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:41:08,795 [Worker-112: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:41:08,795 [Worker-112: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:41:08,796 [Worker-112: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:41:08,798 [Worker-112: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:41:08,798 [Worker-112: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:41:08,799 [Worker-112: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:42:25,375 [Worker-109: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:42:25,375 [Worker-109: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:42:25,376 [Worker-109: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:42:25,376 [Worker-109: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:42:25,378 [Worker-109: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:42:25,378 [Worker-109: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:42:25,378 [Worker-109: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:43:05,666 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:43:05,667 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:43:05,667 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:43:05,667 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:43:05,670 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:43:05,670 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:43:05,670 [Worker-98: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:50:55,370 [Worker-111: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:50:55,370 [Worker-111: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:50:55,372 [Worker-111: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 15:50:55,388 [Worker-111: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:50:55,391 [Worker-111: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:50:55,391 [Worker-111: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:50:55,391 [Worker-111: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:54:38,130 [Worker-121: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:54:38,131 [Worker-121: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:54:38,131 [Worker-121: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:54:38,131 [Worker-121: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:54:38,134 [Worker-121: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:54:38,135 [Worker-121: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:54:38,135 [Worker-121: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:55:25,544 [Worker-117: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:55:25,544 [Worker-117: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:55:25,545 [Worker-117: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:55:25,545 [Worker-117: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:55:25,547 [Worker-117: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:55:25,548 [Worker-117: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:55:25,548 [Worker-117: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:57:13,760 [Worker-124: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:57:13,760 [Worker-124: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:57:13,760 [Worker-124: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:57:13,760 [Worker-124: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:57:13,763 [Worker-124: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:57:13,764 [Worker-124: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:57:13,765 [Worker-124: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 15:57:32,395 [Worker-126: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:57:32,395 [Worker-126: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:57:32,396 [Worker-126: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:57:32,396 [Worker-126: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 15:57:32,397 [Worker-126: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 15:57:32,397 [Worker-126: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 15:57:32,398 [Worker-126: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 16:18:03,429 [Worker-135: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 16:18:03,430 [Worker-135: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 16:18:03,431 [Worker-135: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 16:18:03,443 [Worker-135: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 16:18:03,446 [Worker-135: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 16:18:03,446 [Worker-135: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 16:18:03,446 [Worker-135: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 16:52:16,405 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 16:52:16,406 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 16:52:16,408 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 16:52:16,433 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 16:52:16,436 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 16:52:16,437 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 16:52:16,437 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 16:52:33,130 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 16:52:33,130 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 16:52:33,131 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 16:52:33,140 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 16:52:33,143 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 16:52:33,143 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 16:52:33,143 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 19:45:20,625 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 19:45:20,626 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 19:45:20,628 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 19:45:20,800 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 19:45:20,803 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 19:45:20,803 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 19:45:20,803 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 19:45:43,534 [Worker-168: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 19:45:43,535 [Worker-168: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 19:45:43,536 [Worker-168: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 19:45:43,545 [Worker-168: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 19:45:43,547 [Worker-168: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 19:45:43,547 [Worker-168: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 19:45:43,547 [Worker-168: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 19:50:54,791 [Worker-174: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 19:50:54,791 [Worker-174: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 19:50:54,793 [Worker-174: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 19:50:54,804 [Worker-174: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 19:50:54,808 [Worker-174: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 19:50:54,808 [Worker-174: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 19:50:54,808 [Worker-174: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 19:51:30,605 [Worker-128: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 19:51:30,606 [Worker-128: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 19:51:30,607 [Worker-128: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 19:51:30,618 [Worker-128: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 19:51:30,620 [Worker-128: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 19:51:30,620 [Worker-128: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 19:51:30,620 [Worker-128: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:03:10,280 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:03:10,280 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:03:10,282 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 20:03:10,297 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:03:10,300 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:03:10,301 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:03:10,301 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:03:29,050 [Worker-181: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:03:29,050 [Worker-181: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:03:29,052 [Worker-181: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 20:03:29,061 [Worker-181: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:03:29,063 [Worker-181: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:03:29,064 [Worker-181: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:03:29,064 [Worker-181: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:10:21,240 [Worker-187: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:10:21,241 [Worker-187: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:10:21,241 [Worker-187: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:10:21,241 [Worker-187: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:10:21,243 [Worker-187: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:10:21,243 [Worker-187: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:10:21,244 [Worker-187: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:10:59,758 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:10:59,759 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:10:59,759 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:10:59,759 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:10:59,765 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:10:59,765 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:10:59,765 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:14:50,896 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:14:50,896 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:14:50,897 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 20:14:50,915 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:14:50,918 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:14:50,919 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:14:50,919 [Worker-182: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:16:15,183 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:16:15,184 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:16:15,185 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 20:16:15,198 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:16:15,201 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:16:15,201 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:16:15,201 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:32:00,792 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:32:00,794 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:32:00,795 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:32:00,795 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:32:00,797 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:32:00,797 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:32:00,797 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:35:08,892 [Worker-206: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:35:08,893 [Worker-206: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:35:08,894 [Worker-206: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 20:35:08,911 [Worker-206: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:35:08,914 [Worker-206: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:35:08,914 [Worker-206: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:35:08,914 [Worker-206: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:36:42,677 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:36:42,677 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:36:42,677 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:36:42,678 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:36:42,681 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:36:42,681 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:36:42,681 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:37:14,450 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:37:14,451 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:37:14,451 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:37:14,451 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:37:14,454 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:37:14,454 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:37:14,455 [Worker-193: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:39:43,891 [Worker-210: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:39:43,891 [Worker-210: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:39:43,892 [Worker-210: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:39:43,892 [Worker-210: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:39:43,894 [Worker-210: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:39:43,894 [Worker-210: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:39:43,894 [Worker-210: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:43:42,648 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:43:42,649 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:43:42,649 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:43:42,649 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:43:42,653 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:43:42,653 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:43:42,654 [Worker-207: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:46:36,392 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:46:36,394 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:46:36,395 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:46:36,395 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:46:36,397 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:46:36,397 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:46:36,397 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:48:20,140 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:48:20,141 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:48:20,141 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:48:20,141 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:48:20,143 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:48:20,143 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:48:20,144 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:51:12,364 [Worker-225: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:51:12,365 [Worker-225: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:51:12,365 [Worker-225: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:51:12,366 [Worker-225: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:51:12,368 [Worker-225: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:51:12,369 [Worker-225: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:51:12,369 [Worker-225: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:52:31,126 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:52:31,126 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:52:31,126 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:52:31,127 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:52:31,129 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:52:31,129 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:52:31,129 [Worker-219: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:54:13,887 [Worker-224: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:54:13,888 [Worker-224: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:54:13,889 [Worker-224: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:54:13,889 [Worker-224: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:54:13,892 [Worker-224: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:54:13,892 [Worker-224: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:54:13,893 [Worker-224: Launching Licenses - LicensesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:59:41,230 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:59:41,230 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:59:41,232 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-23 20:59:41,286 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-23 20:59:41,289 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-23 20:59:41,289 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-23 20:59:41,289 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\Licenses\src\test\resources
+2021-06-23 20:59:43,420 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@43bb9737{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2021-06-23 20:59:43,420 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2021-06-23 20:59:43,447 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@4cd09545{/help,null,STOPPED}

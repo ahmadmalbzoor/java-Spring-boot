@@ -1,0 +1,25 @@
+package com.Licenses.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.Licenses.models.Person;
+import com.Licenses.service.LicenseService;
+import com.Licenses.service.PersonService;
+@Controller
+public class controllerAPI {
+private final PersonService personService;
+private final LicenseService licenseService;
+public controllerAPI(PersonService personService,LicenseService licenseService)
+{
+	this.licenseService=licenseService;
+	this.personService=personService;
+}
+@RequestMapping("/person/new")
+
+public String index(@ModelAttribute("pers") Person pers)
+{
+	return "index.jsp";
+}
+}

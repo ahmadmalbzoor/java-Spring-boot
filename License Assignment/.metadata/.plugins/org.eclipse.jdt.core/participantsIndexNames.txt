@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1833211650.index
+\Licenses\src\main\java
+C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4261298414.index
+\Licenses\src\main\java

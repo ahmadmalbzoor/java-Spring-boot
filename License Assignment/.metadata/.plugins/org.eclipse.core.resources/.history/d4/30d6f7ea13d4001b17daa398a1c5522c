@@ -1,0 +1,21 @@
+package com.Licenses.controller;
+
+import org.springframework.web.bind.annotation.ModelAttribute;
+
+import com.Licenses.models.Person;
+import com.Licenses.service.LicenseService;
+import com.Licenses.service.PersonService;
+
+public class controllerAPI {
+private final PersonService personService;
+private final LicenseService licenseService;
+public controllerAPI(PersonService personService,LicenseService licenseService)
+{
+	this.licenseService=licenseService;
+	this.personService=personService;
+}
+public String index(@ModelAttribute("pers") Person pers)
+{
+	return "index.jsp";
+}
+}

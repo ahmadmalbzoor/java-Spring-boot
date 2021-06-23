@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\BisanCo\Desktop\java\springAssi\License Assignment\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3974479384.index
+2981416631.index
+2063255329.index
+2026338947.index
+2433291468.index
+1833211650.index
